@@ -1,6 +1,11 @@
 ### [upcoming](https://api.github.com/raszi/changelog-test/releases/tag/upcoming) (2014-08-02)
 
 
+#### Features
+
+* **example:** add example CHANGELOG ([5d9df796](https://api.github.com/raszi/changelog-test/commit/5d9df796106b6aa3120ad82645c65b5e8c305847))
+
+
 
 ### [v0.0.2](https://api.github.com/raszi/changelog-test/releases/tag/v0.0.2) (2014-07-13)
 
